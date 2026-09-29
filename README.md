@@ -2,7 +2,7 @@
 
 **An ancient troll has become part of a living forest.**
 
-**[▶ Open the live artwork](https://bongdoe.github.io/Dormant/dormant.html)**
+**[▶ Open the live artwork](https://bongdoe.github.io/Dormant/)**
 
 *Dormant* is an interactive 3D artwork that runs in the browser. A giant troll, big as a hill, has slept so long that the forest has grown over it. Roots creep across its cheeks and shoulders, trees grow from its crown, and moss covers the stone of its skin. Its eyes still glow. It still breathes, very slowly.
 
@@ -47,7 +47,7 @@ A small control strip sits in the bottom-left corner.
 
 ## Run it locally
 
-Download `dormant.html` and double-click it. That's all.
+Download `index.html` and double-click it. That's all.
 
 It needs a browser with **WebGL2** support: any recent version of Chrome, Edge, Firefox or Safari.
 
